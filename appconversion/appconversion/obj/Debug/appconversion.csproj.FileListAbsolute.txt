@@ -1,0 +1,7 @@
+F:\semester 2\OOPS Lab\appconversion\appconversion\obj\Debug\appconversion.csproj.AssemblyReference.cache
+F:\semester 2\OOPS Lab\appconversion\appconversion\obj\Debug\appconversion.csproj.CoreCompileInputs.cache
+F:\semester 2\OOPS Lab\appconversion\appconversion\bin\Debug\appconversion.exe.config
+F:\semester 2\OOPS Lab\appconversion\appconversion\bin\Debug\appconversion.exe
+F:\semester 2\OOPS Lab\appconversion\appconversion\bin\Debug\appconversion.pdb
+F:\semester 2\OOPS Lab\appconversion\appconversion\obj\Debug\appconversion.exe
+F:\semester 2\OOPS Lab\appconversion\appconversion\obj\Debug\appconversion.pdb
