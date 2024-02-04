@@ -1,0 +1,7 @@
+F:\semester 2\OOPS Lab\week 3\POS\POS\bin\Debug\POS.exe.config
+F:\semester 2\OOPS Lab\week 3\POS\POS\bin\Debug\POS.exe
+F:\semester 2\OOPS Lab\week 3\POS\POS\bin\Debug\POS.pdb
+F:\semester 2\OOPS Lab\week 3\POS\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+F:\semester 2\OOPS Lab\week 3\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+F:\semester 2\OOPS Lab\week 3\POS\POS\obj\Debug\POS.exe
+F:\semester 2\OOPS Lab\week 3\POS\POS\obj\Debug\POS.pdb
