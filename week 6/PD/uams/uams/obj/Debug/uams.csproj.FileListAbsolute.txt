@@ -1,0 +1,7 @@
+F:\semester 2\OOPS Lab\week 6\PD\uams\uams\obj\Debug\uams.csproj.AssemblyReference.cache
+F:\semester 2\OOPS Lab\week 6\PD\uams\uams\obj\Debug\uams.csproj.CoreCompileInputs.cache
+F:\semester 2\OOPS Lab\week 6\PD\uams\uams\bin\Debug\uams.exe.config
+F:\semester 2\OOPS Lab\week 6\PD\uams\uams\bin\Debug\uams.exe
+F:\semester 2\OOPS Lab\week 6\PD\uams\uams\bin\Debug\uams.pdb
+F:\semester 2\OOPS Lab\week 6\PD\uams\uams\obj\Debug\uams.exe
+F:\semester 2\OOPS Lab\week 6\PD\uams\uams\obj\Debug\uams.pdb
