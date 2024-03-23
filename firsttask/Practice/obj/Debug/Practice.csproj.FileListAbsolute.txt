@@ -1,0 +1,7 @@
+C:\Users\HANNAN\Desktop\2ND SEMESTER\OOP\OOP LAB\OOP LAB 10\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\HANNAN\Desktop\2ND SEMESTER\OOP\OOP LAB\OOP LAB 10\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\HANNAN\Desktop\2ND SEMESTER\OOP\OOP LAB\OOP LAB 10\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\HANNAN\Desktop\2ND SEMESTER\OOP\OOP LAB\OOP LAB 10\Practice\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Users\HANNAN\Desktop\2ND SEMESTER\OOP\OOP LAB\OOP LAB 10\Practice\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Users\HANNAN\Desktop\2ND SEMESTER\OOP\OOP LAB\OOP LAB 10\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\HANNAN\Desktop\2ND SEMESTER\OOP\OOP LAB\OOP LAB 10\Practice\Practice\obj\Debug\Practice.pdb

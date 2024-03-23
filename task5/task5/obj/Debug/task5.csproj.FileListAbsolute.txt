@@ -1,0 +1,7 @@
+F:\semester 2\OOPS Lab\week 10\OOP Lab\task5\task5\bin\Debug\task5.exe.config
+F:\semester 2\OOPS Lab\week 10\OOP Lab\task5\task5\bin\Debug\task5.exe
+F:\semester 2\OOPS Lab\week 10\OOP Lab\task5\task5\bin\Debug\task5.pdb
+F:\semester 2\OOPS Lab\week 10\OOP Lab\task5\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+F:\semester 2\OOPS Lab\week 10\OOP Lab\task5\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+F:\semester 2\OOPS Lab\week 10\OOP Lab\task5\task5\obj\Debug\task5.exe
+F:\semester 2\OOPS Lab\week 10\OOP Lab\task5\task5\obj\Debug\task5.pdb
