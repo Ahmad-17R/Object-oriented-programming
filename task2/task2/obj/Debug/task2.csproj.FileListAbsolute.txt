@@ -1,7 +1,0 @@
-F:\semester 2\OOPS Lab\week 10\OOP Lab\task2\task2\bin\Debug\task2.exe.config
-F:\semester 2\OOPS Lab\week 10\OOP Lab\task2\task2\bin\Debug\task2.exe
-F:\semester 2\OOPS Lab\week 10\OOP Lab\task2\task2\bin\Debug\task2.pdb
-F:\semester 2\OOPS Lab\week 10\OOP Lab\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
-F:\semester 2\OOPS Lab\week 10\OOP Lab\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
-F:\semester 2\OOPS Lab\week 10\OOP Lab\task2\task2\obj\Debug\task2.exe
-F:\semester 2\OOPS Lab\week 10\OOP Lab\task2\task2\obj\Debug\task2.pdb
